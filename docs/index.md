@@ -9,6 +9,11 @@ This `binary`-`digital` document is the subweb whitenet Universal Preamble
 ## Who is itsN1X?
 Luser-name "itsN1X" is a sub-self conferred username Title of the [Author](https://google.com/search?q=itsN1X).
 
+----
+----
+----
+----
+
 ### What is that?
 A general intelligence psuedo-semantic instance of 'forge':54, 'pie':n.
 
