@@ -20,12 +20,11 @@ Only on _their_ network[$](https://9xo.github.io/R/teb)
 
 ## Associations
 <html>
-<div>  
 <table>
 <tr border='false'><td>Shanti Gyan Niketan</td><td>St. Mary’s</td><td>SGTBK (DU)</td></tr>
 <tr><td><img src="https://avatars2.githubusercontent.com/u/23287498"></td><td><img src="https://avatars1.githubusercontent.com/u/23268096"></td><td><img src="http://fees.sgtbkhalsadu.ac.in/static/dist/images/logos/1.png"></td></tr>
 <tr><td>Ð1290-4580</td><td>Ð4590-6402</td><td>Ð6410-6523</td></tr>
-</div></table>
+</table>
 </html>
 
 ## Finding it's N1X:
